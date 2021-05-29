@@ -129,6 +129,11 @@
 				<Layers>GH:rj_municipios_2020</Layers>
 				<Styles></Styles>
 			</TileSet>
+			<CustomLayer>
+				<Name>GH:pontoscontagem</Name>
+				<Title>pontoscontagem</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer>
@@ -137,7 +142,7 @@
 				<Title>rj_municipios_2020</Title>
 				<Abstract>GH:rj_municipios_2020 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/davigurgell/Mappia_Example/releases/download/Map_Download/rj_municipios_2020.zip˸notListing˸˸maxZoom˸1</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/davigurgell/Mappia_Example/releases/download/Map_Download/rj_municipios_2020.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-44.889320551" miny="-23.368931962" maxx="-40.95794091600004" maxy="-20.763205460999963"></LatLonBoundingBox>
